@@ -1,0 +1,7 @@
+pygame==2.5.1
+gTTS==2.3.2
+requests
+xmltodict
+pycryptodomex
+typing;python_version<"3.5"
+huawei-lte-api
